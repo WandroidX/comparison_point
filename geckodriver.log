@@ -1,0 +1,1475 @@
+1632513183862	geckodriver	INFO	Listening on 127.0.0.1:61583
+1632513186915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileHMrytm"
+1632513188262	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileHMrytm\\search.json.mozlz4", (void 0)))
+1632513194001	Marionette	INFO	Listening on port 61592
+1632513194563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632513202774	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632519743001	Marionette	INFO	Stopped listening on port 61592
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632520020309	geckodriver	INFO	Listening on 127.0.0.1:61792
+1632520023358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileZgDfhs"
+1632520024497	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileZgDfhs\\search.json.mozlz4", (void 0)))
+1632520029894	Marionette	INFO	Listening on port 64160
+1632520030286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632520034131	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle28 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 362))
+console.error: (new Error("Protocol error (noSuchActor): No such actor for ID: server0.conn0.child4/domnode158 from: server0.conn0.child4/domnode158", "resource://devtools/shared/protocol/Fro1632520388121	Marionette	INFO	Stopped listening on port 51398
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: "Error writing request: getGrids"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Des-419%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=es-419&ec=65620 line 1 > eval line 4811 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632520386075	Marionette	INFO	Stopped listening on port 64160
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632520419384	geckodriver	INFO	Listening on 127.0.0.1:57526
+1632520422351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileHyI7nf"
+1632520423759	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileHyI7nf\\search.json.mozlz4", (void 0)))
+1632520431287	Marionette	INFO	Listening on port 57558
+1632520431435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632520438222	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Des-419%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=es-419&ec=65620 line 1 > eval line 3939 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632520527310	Marionette	INFO	Stopped listening on port 57558
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632530092913	geckodriver	INFO	Listening on 127.0.0.1:56970
+1632530095982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilePSOXho"
+1632530097205	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilePSOXho\\search.json.mozlz4", (void 0)))
+1632530102270	Marionette	INFO	Listening on port 56980
+1632530102389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1632530150799	Marionette	INFO	Stopped listening on port 56980
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1632530157837	geckodriver	INFO	Listening on 127.0.0.1:60335
+1632530160875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile8aeJSv"
+1632530161679	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile8aeJSv\\search.json.mozlz4", (void 0)))
+1632530165673	Marionette	INFO	Listening on port 60343
+1632530165908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632530189208	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Des-419%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=es-419&ec=65620 line 1 > eval line 1892 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Des-419%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=es-419&ec=65620 line 1 > eval line 3260 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Des-419%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=es-419&ec=65620&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 7713 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Des-419%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=es-419&ec=65620&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 5391 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Des-419%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252F&hl=es-419&ec=65620&flowName=GlifWebSignIn&flowEntry=ServiceLogin line 1 > eval line 4641 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632533888278	Marionette	INFO	Stopped listening on port 60343
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632595349743	geckodriver	INFO	Listening on 127.0.0.1:49297
+1632595352832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileI5GNxi"
+1632595353962	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileI5GNxi\\search.json.mozlz4", (void 0)))
+1632595358865	Marionette	INFO	Listening on port 49305
+1632595359213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632595365869	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 6776, MediaDecoderStateMachine #1] WARNING: 1ab758862e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WAz-nyaJu9uVRUq8NsxhsXGtXViWwv7lV4sP3qP2SqA.js line 1 > eval line 3349 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632595827579	Marionette	INFO	Stopped listening on port 49305
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofileGCj8Lr"
+1632595585047	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileGCj8Lr\\search.json.mozlz4", (void 0)))
+1632595591271	Marionette	INFO	Listening on port 50549
+1632595591633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632595598543	Marionette	INFO	Stopped listening on port 50549
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632595612926	geckodriver	INFO	Listening on 127.0.0.1:59824
+1632595616003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileplbubS"
+1632595616662	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileplbubS\\search.json.mozlz4", (void 0)))
+1632595620700	Marionette	INFO	Listening on port 59832
+1632595620827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632595626592	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker25, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:506:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3761:24\ndestroy@resource://devtools/client/framework/toolbox.js:3699:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:702:17\nhandleEvent@resource://devtools/client/framework/devtools-browser.js:723:26\n", "resource://devtools/shared/protocol/Front.js", 103))
+1632595743249	Marionette	INFO	Stopped listening on port 59832
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1632595831797	geckodriver	INFO	Listening on 127.0.0.1:65020
+1632595834908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilesGopoI"
+1632595835680	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilesGopoI\\search.json.mozlz4", (void 0)))
+1632595839830	Marionette	INFO	Listening on port 65028
+1632595840237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632595853129	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632596408881	Marionette	INFO	Stopped listening on port 65028
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileENtaQ3\\search.json.mozlz4", (void 0)))
+1632596283838	Marionette	INFO	Listening on port 56672
+1632596284408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632596291599	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632596409738	Marionette	INFO	Stopped listening on port 56672
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilecS3kKX\\search.json.mozlz4", (void 0)))
+1632596414591	Marionette	INFO	Listening on port 55363
+1632596414727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632596419238	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632597246283	Marionette	INFO	Stopped listening on port 55363
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAC002E,name=PWindowGlobal::Msg_SetSingleChannelId) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_NotifyMediaSessionUpdated) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+1632618201151	geckodriver	INFO	Listening on 127.0.0.1:59042
+1632618204268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilecwekuX"
+1632618205664	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilecwekuX\\search.json.mozlz4", (void 0)))
+1632618212394	Marionette	INFO	Listening on port 59050
+1632618212791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1632618231892	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632618361774	Marionette	INFO	Stopped listening on port 59050
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632618366194	geckodriver	INFO	Listening on 127.0.0.1:63358
+1632618369279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilepIh1hT"
+1632618370131	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilepIh1hT\\search.json.mozlz4", (void 0)))
+1632618374973	Marionette	INFO	Listening on port 63369
+1632618375241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632618389877	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632618667084	Marionette	INFO	Stopped listening on port 63369
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofiletzrak4\\search.json.mozlz4", (void 0)))
+1632618671652	Marionette	INFO	Listening on port 55737
+1632618671879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632618681233	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632619217460	Marionette	INFO	Stopped listening on port 55737
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+X2fr5\\search.json.mozlz4", (void 0)))
+1632619086814	Marionette	INFO	Listening on port 62888
+1632619086934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632619104734	Marionette	INFO	Stopped listening on port 62888
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1632619107109	geckodriver	INFO	Listening on 127.0.0.1:60024
+1632619110163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileHyVr7v"
+1632619110946	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileHyVr7v\\search.json.mozlz4", (void 0)))
+1632619115121	Marionette	INFO	Listening on port 60032
+1632619115502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632619121168	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632619216232	Marionette	INFO	Stopped listening on port 60032
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632619221529	geckodriver	INFO	Listening on 127.0.0.1:63052
+1632619224610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileNESf6e"
+1632619225454	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileNESf6e\\search.json.mozlz4", (void 0)))
+1632619230342	Marionette	INFO	Listening on port 63060
+1632619230491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632619236473	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632619732423	Marionette	INFO	Stopped listening on port 63060
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofile53SV02"
+1632619733040	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile53SV02\\search.json.mozlz4", (void 0)))
+1632619738109	Marionette	INFO	Listening on port 57471
+1632619738658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1632619745653	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632619856884	Marionette	INFO	Stopped listening on port 57471
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1632619870578	geckodriver	INFO	Listening on 127.0.0.1:65306
+1632619873625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilesmFTsk"
+1632619874425	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilesmFTsk\\search.json.mozlz4", (void 0)))
+1632619878593	Marionette	INFO	Listening on port 65314
+1632619878941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632619889771	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632619986903	Marionette	INFO	Stopped listening on port 65314
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 868, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1632620310555	geckodriver	INFO	Listening on 127.0.0.1:60983
+1632620313597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile1ZDrpv"
+1632620314389	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile1ZDrpv\\search.json.mozlz4", (void 0)))
+1632620318468	Marionette	INFO	Listening on port 60991
+1632620318961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632620934953	Marionette	INFO	Stopped listening on port 60991
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632620938227	geckodriver	INFO	Listening on 127.0.0.1:61834
+1632620941301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile9jZyPQ"
+1632620942132	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile9jZyPQ\\search.json.mozlz4", (void 0)))
+1632620946260	Marionette	INFO	Listening on port 61842
+1632620946668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1632620956078	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632620969074	Marionette	INFO	Stopped listening on port 61842
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632621025350	geckodriver	INFO	Listening on 127.0.0.1:64094
+1632621028421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile3xNhxu"
+1632621029288	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile3xNhxu\\search.json.mozlz4", (void 0)))
+1632621033439	Marionette	INFO	Listening on port 49289
+1632621033752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632621037610	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632621050217	Marionette	INFO	Stopped listening on port 49289
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632621119171	geckodriver	INFO	Listening on 127.0.0.1:49351
+1632621122253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileZMRb7v"
+1632621123086	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileZMRb7v\\search.json.mozlz4", (void 0)))
+1632621127036	Marionette	INFO	Listening on port 49359
+1632621127154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632621131366	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632621434794	Marionette	INFO	Stopped listening on port 49359
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to sendconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile9eXM0n\\search.json.mozlz4", (void 0)))
+1632621437660	Marionette	INFO	Listening on port 57224
+1632621438043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632621444706	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632622036313	Marionette	INFO	Stopped listening on port 57224
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632622038955	geckodriver	INFO	Listening on 127.0.0.1:55097
+1632622042040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileubx1gV"
+1632622042857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileubx1gV\\search.json.mozlz4", (void 0)))
+1632622046772	Marionette	INFO	Listening on port 55105
+1632622046873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1632622057908	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632622603400	Marionette	INFO	Stopped listening on port 55101632622605496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilePBx1X5"
+1632622606389	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilePBx1X5\\search.json.mozlz4", (void 0)))
+1632622611140	Marionette	INFO	Listening on port 58079
+1632622611335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1632622628196	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632622800090	Marionette	INFO	Stopped listening on port 58079
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1632622802910	geckodriver	INFO	Listening on 127.0.0.1:56601
+1632622805990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilepO2tpH"
+1632622807183	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilepO2tpH\\search.json.mozlz4", (void 0)))
+1632622812648	Marionette	INFO	Listening on port 56610
+1632622812734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632622821813	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632622959934	Marionette	INFO	Stopped listening on port 56610
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofileZyFkcz"
+1632622947324	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileZyFkcz\\search.json.mozlz4", (void 0)))
+1632622955963	Marionette	INFO	Listening on port 62228
+1632622956364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1632622961110	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632623253904	Marionette	INFO	Stopped listening on port 62228
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1632623256733	geckodriver	INFO	Listening on 127.0.0.1:57078
+1632623259768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileC9mDqK"
+1632623260584	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileC9mDqK\\search.json.mozlz4", (void 0)))
+1632623264684	Marionette	INFO	Listening on port 57086
+1632623265118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632623284951	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632623439053	Marionette	INFO	Stopped listening on port 57086
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+ (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilei3yCN3\\search.json.mozlz4", (void 0)))
+1632623336423	Marionette	INFO	Listening on port 51181
+1632623336725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632623343683	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632623438575	Marionette	INFO	Stopped listening on port 51181
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632623441102	geckodriver	INFO	Listening on 127.0.0.1:54751
+1632623444160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilecryAxX"
+1632623444971	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilecryAxX\\search.json.mozlz4", (void 0)))
+1632623449058	Marionette	INFO	Listening on port 54759
+1632623449611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632623454938	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632623660326	Marionette	INFO	Stopped listening on port 54759
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1632623669071	geckodriver	INFO	Listening on 127.0.0.1:55908
+1632623672152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofiled6oyO2"
+1632623672965	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofiled6oyO2\\search.json.mozlz4", (void 0)))
+1632623677007	Marionette	INFO	Listening on port 55916
+1632623677482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632623687954	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632623921483	Marionette	INFO	Stopped listening on port 55916
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632624013695	geckodriver	INFO	Listening on 127.0.0.1:60142
+1632624016721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile2Sbupa"
+1632624017815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile2Sbupa\\search.json.mozlz4", (void 0)))
+1632624022214	Marionette	INFO	Listening on port 59463
+1632624022612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632624033857	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632624380895	Marionette	INFO	Stopped listening on port 59463
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632702763498	geckodriver	INFO	Listening on 127.0.0.1:49711
+1632702766574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileTC7mGE"
+1632702768385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileTC7mGE\\search.json.mozlz4", (void 0)))
+1632702775962	Marionette	INFO	Listening on port 49719
+1632702776056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632702783725	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632703250292	Marionette	INFO	Stopped listening on port 49719
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632703253653	geckodriver	INFO	Listening on 127.0.0.1:49886
+1632703256779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilefTx1aF"
+1632703257692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilefTx1aF\\search.json.mozlz4", (void 0)))
+1632703262020	Marionette	INFO	Listening on port 49894
+1632703262207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632703269929	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632703624660	Marionette	INFO	Stopped listening on port 49894
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632706721721	geckodriver	INFO	Listening on 127.0.0.1:60221
+1632706724834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofiledGxDtQ"
+1632706726256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofiledGxDtQ\\search.json.mozlz4", (void 0)))
+1632706730997	Marionette	INFO	Listening on port 60229
+1632706731194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632706738166	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632707554910	Marionette	INFO	Stopped listening on port 60229
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1632707561420	geckodriver	INFO	Listening on 127.0.0.1:60317
+1632707564492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileitUXLJ"
+1632707565313	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileitUXLJ\\search.json.mozlz4", (void 0)))
+1632707569377	Marionette	INFO	Listening on port 60325
+1632707569839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632707575584	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632707730268	Marionette	INFO	Stopped listening on port 60325
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1632707738581	geckodriver	INFO	Listening on 127.0.0.1:60416
+1632707741672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileH3UAat"
+1632707742473	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileH3UAat\\search.json.mozlz4", (void 0)))
+1632707746311	Marionette	INFO	Listening on port 60424
+1632707746535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632707750476	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632707869206	Marionette	INFO	Stopped listening on port 60424
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1632707925106	geckodriver	INFO	Listening on 127.0.0.1:60502
+1632707928207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile2Py8sy"
+1632707929058	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile2Py8sy\\search.json.mozlz4", (void 0)))
+1632707932868	Marionette	INFO	Listening on port 60510
+1632707933082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632707943866	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632708497693	Marionette	INFO	Stopped listening on port 60510
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632708567204	geckodriver	INFO	Listening on 127.0.0.1:54869
+1632708570250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileZMsnHG"
+1632708571088	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileZMsnHG\\search.json.mozlz4", (void 0)))
+1632708575211	Marionette	INFO	Listening on port 54877
+1632708575662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632708586884	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632708828557	Marionette	INFO	Stopped listening on port 54877
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632708834459	geckodriver	INFO	Listening on 127.0.0.1:63460
+1632708837530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileVm1LxQ"
+1632708838394	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileVm1LxQ\\search.json.mozlz4", (void 0)))
+1632708842659	Marionette	INFO	Listening on port 63468
+1632708842865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1632708855914	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1632709234898	Marionette	INFO	Stopped listening on port 63468
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632709239742	geckodriver	INFO	Listening on 127.0.0.1:49816
+1632709242822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileisoXPa"
+1632709243764	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileisoXPa\\search.json.mozlz4", (void 0)))
+1632709247756	Marionette	INFO	Listening on port 49824
+1632709248154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632709253902	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632709367555	Marionette	INFO	Stopped listening on port 49824
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632709379910	geckodriver	INFO	Listening on 127.0.0.1:56769
+1632709382941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilekDBC9s"
+1632709383848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilekDBC9s\\search.json.mozlz4", (void 0)))
+1632709387894	Marionette	INFO	Listening on port 56777
+1632709388300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632709398627	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632709412613	Marionette	INFO	Stopped listening on port 56777
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632709728533	geckodriver	INFO	Listening on 127.0.0.1:50928
+1632709731557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileaKBFj3"
+1632709732428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileaKBFj3\\search.json.mozlz4", (void 0)))
+1632709736666	Marionette	INFO	Listening on port 50936
+1632709737087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632709747778	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632709780640	Marionette	INFO	Stopped listening on port 50936
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632710215447	geckodriver	INFO	Listening on 127.0.0.1:64326
+1632710218461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileD067OW"
+1632710219416	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileD067OW\\search.json.mozlz4", (void 0)))
+1632710224419	Marionette	INFO	Listening on port 64334
+1632710224723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632710231407	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632710659025	Marionette	INFO	Stopped listening on port 64334
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1632710710831	geckodriver	INFO	Listening on 127.0.0.1:63368
+1632710713960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilekoggsT"
+1632710714868	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilekoggsT\\search.json.mozlz4", (void 0)))
+1632710718898	Marionette	INFO	Listening on port 63376
+1632710719326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632710724668	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632710885330	Marionette	INFO	Stopped listening on port 63376
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1632710893622	geckodriver	INFO	Listening on 127.0.0.1:63231
+1632710896703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilel8N2hg"
+1632710897517	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilel8N2hg\\search.json.mozlz4", (void 0)))
+1632710901450	Marionette	INFO	Listening on port 63239
+1632710901528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632710904834	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Child 5668, MediaDecoderStateMachine #1] WARNING: 1e3760842e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 5668, MediaDecoderStateMachine #1] WARNING: 1e378c53200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-1aq-589pTXQhIX0O0sr0by93NOseZw7_D6wdr9M3ZU.js line 1 > eval line 143 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5668, MediaDecoderStateMachine #1] WARNING: 1e378c53200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1632712102714	Marionette	INFO	Stopped listening on port 63239
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632712105769	geckodriver	INFO	Listening on 127.0.0.1:52473
+1632712108872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileSCpv39"
+1632712109716	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileSCpv39\\search.json.mozlz4", (void 0)))
+1632712113966	Marionette	INFO	Listening on port 50672
+1632712114219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632712120115	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632712171485	Marionette	INFO	Stopped listening on port 50672
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632712173763	geckodriver	INFO	Listening on 127.0.0.1:55069
+1632712176828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofiletHO2Le"
+1632712177611	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofiletHO2Le\\search.json.mozlz4", (void 0)))
+1632712181632	Marionette	INFO	Listening on port 58091
+1632712182133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632712187730	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632712229752	Marionette	INFO	Stopped listening on port 58091
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: https://www.youtube.com/s/desktop/f7d4cb0d/jsbin/spf.vflset/spf.js, line 28: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390134,name=PContent::Msg_ReportServiceWorkerShutdownProgress) Channel closing: too late to send/recv, messages will be lost
+
+1632712236889	geckodriver	INFO	Listening on 127.0.0.1:55720
+1632712239970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilehg1lvx"
+1632712240769	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilehg1lvx\\search.json.mozlz4", (void 0)))
+1632712244919	Marionette	INFO	Listening on port 59339
+1632712245420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632712250958	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632712566245	Marionette	INFO	Stopped listening on port 59339
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofilete1pZp"
+1632712494561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilete1pZp\\search.json.mozlz4", (void 0)))
+1632712498934	Marionette	INFO	Listening on port 55279
+1632712499153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632712507054	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632712563404	Marionette	INFO	Stopped listening on port 55279
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632712569990	geckodriver	INFO	Listening on 127.0.0.1:52097
+1632712573117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileSOPiEd"
+1632712573973	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileSOPiEd\\search.json.mozlz4", (void 0)))
+1632712578574	Marionette	INFO	Listening on port 52105
+1632712578971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632712582996	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://tagstaticx.com/tag.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: https://cdn.bmcdn1.com/js/609d1675cf6a8d24ccfe3443.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d1675cf6a8d24ccfe3443.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d1675cf6a8d24ccfe3443.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d1675cf6a8d24ccfe3443.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d1675cf6a8d24ccfe3443.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d1675cf6a8d24ccfe3443.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/5facf54f36321cba022b3f3d.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/5facf54f36321cba022b3f3d.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn1.com/js/5facf54f36321cba022b3f3d.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/5facf54f36321cba022b3f3d.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/5facf54f36321cba022b3f3d.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn1.com/js/5facf54f36321cba022b3f3d.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d161acf6a8d7095fe3442.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d161acf6a8d7095fe3442.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d161acf6a8d7095fe3442.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d161acf6a8d7095fe3442.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d161acf6a8d7095fe3442.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d161acf6a8d7095fe3442.js, line 1: WebGL context was lost.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://media.bmcdn2.com/html5/795cd4f0-e929-11eb-a419-efaab07a538c47ac152d-48a3-4da0-bc82-c14f936f409b5ed466bb93ee28d989b92344/, line 147: TypeError: this.g is null
+JavaScript error: https://media.bmcdn2.com/html5/795cd4f0-e929-11eb-a419-efaab07a538c47ac152d-48a3-4da0-bc82-c14f936f409b5ed466bb93ee28d989b92344/, line 148: TypeError: this.g is null
+JavaScript warning: https://static.arc.io/widget/js/core.js?4c137d4, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.arc.io/broker/js/lazy-modules.a169b1ec.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://static.arc.io/widget/js/core.js?4c137d4, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1632713008153	geckodriver	INFO	Listening on 127.0.0.1:65347
+1632713011147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileRQUX5b"
+1632713012376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileRQUX5b\\search.json.mozlz4", (void 0)))
+1632713020230	Marionette	INFO	Listening on port 65355
+1632713020636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632713029806	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/r7qovpFAGrQ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://push-decdbeb-2304.boustahe.com/pfe/current/extra.html, line 99: TypeError: window.opener is null
+1632713113833	Marionette	INFO	Stopped listening on port 65355
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632713120132	geckodriver	INFO	Listening on 127.0.0.1:50060
+1632713123201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilevkzFlB"
+1632713124013	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilevkzFlB\\search.json.mozlz4", (void 0)))
+1632713128033	Marionette	INFO	Listening on port 50068
+1632713128116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632713133922	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/PynIGY0b6HM line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://whazugho.com/pfe/current/universal.min.js?v=3.1.324, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1632713294712	Marionette	INFO	Stopped listening on port 50068
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390134,name=PContent::Msg_ReportServiceWorkerShutdownProgress) Channel closing: too late to send/recv, messages will be lost
+
+1632713302658	geckodriver	INFO	Listening on 127.0.0.1:63083
+1632713305732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilepIo2qw"
+1632713306565	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilepIo2qw\\search.json.mozlz4", (void 0)))
+1632713310633	Marionette	INFO	Listening on port 63091
+1632713311230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632713318374	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://whazugho.com/pfe/current/universal.min.js?v=3.1.324, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1632713562115	Marionette	INFO	Stopped listening on port 63091
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632713568563	geckodriver	INFO	Listening on 127.0.0.1:56205
+1632713571633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilevrcEnc"
+1632713572464	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilevrcEnc\\search.json.mozlz4", (void 0)))
+1632713576498	Marionette	INFO	Listening on port 56213
+1632713576967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632713583119	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://whazugho.com/pfe/current/universal.min.js?v=3.1.324, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker27, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:506:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3761:24\ndestroy@resource://devtools/client/framework/toolbox.js:3699:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:702:17\nhandleEvent@resource://devtools/client/framework/devtools-browser.js:723:26\n", "resource://devtools/shared/protocol/Front.js", 103))
+1632714124810	Marionette	INFO	Stopped listening on port 56213
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632714139226	geckodriver	INFO	Listening on 127.0.0.1:63874
+1632714142306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilegTWGlB"
+1632714143181	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilegTWGlB\\search.json.mozlz4", (void 0)))
+1632714147123	Marionette	INFO	Listening on port 63882
+1632714147708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632714153743	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://whazugho.com/pfe/current/universal.min.js?v=3.1.324, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632714238672	Marionette	INFO	Stopped listening on port 63882
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1632714254398	geckodriver	INFO	Listening on 127.0.0.1:62263
+1632714257467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofiley9UKtQ"
+1632714258305	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofiley9UKtQ\\search.json.mozlz4", (void 0)))
+1632714262256	Marionette	INFO	Listening on port 62271
+1632714262805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632714270188	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632714534532	Marionette	INFO	Stopped listening on port 62271632714536272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileWeaS3t"
+1632714537227	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileWeaS3t\\search.json.mozlz4", (void 0)))
+1632714541086	Marionette	INFO	Listening on port 54456
+1632714541589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632714553192	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632715271845	Marionette	INFO	Stopped listening on port 54456
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to sendconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileP0KoX0\\search.json.mozlz4", (void 0)))
+1632715273475	Marionette	INFO	Listening on port 58871
+1632715274053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632715280114	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632715594077	Marionette	INFO	Stopped listening on port 58871632715595084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilesK9WjV"
+1632715595958	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilesK9WjV\\search.json.mozlz4", (void 0)))
+1632715599862	Marionette	INFO	Listening on port 55498
+1632715599932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632715606971	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632716707506	Marionette	INFO	Stopped listening on port 55498
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632716725282	geckodriver	INFO	Listening on 127.0.0.1:64204
+1632716728357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileXwWZNp"
+1632716729171	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileXwWZNp\\search.json.mozlz4", (void 0)))
+1632716733165	Marionette	INFO	Listening on port 64213
+1632716733223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632716738552	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://whazugho.com/pfe/current/universal.min.js?v=3.1.324, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://whazugho.com/pfe/current/universal.min.js?v=3.1.324, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632717083802	Marionette	INFO	Stopped listening on port 64213
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+et: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileVW2dMV\\search.json.mozlz4", (void 0)))
+1632716929572	Marionette	INFO	Listening on port 53200
+1632716930095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632716933341	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://whazugho.com/pfe/current/universal.min.js?v=3.1.324, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632717084569	Marionette	INFO	Stopped listening on port 53200
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1632717087636	geckodriver	INFO	Listening on 127.0.0.1:63565
+1632717090705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilesVlPzl"
+1632717091492	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilesVlPzl\\search.json.mozlz4", (void 0)))
+1632717095467	Marionette	INFO	Listening on port 63573
+1632717095540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632717113712	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632717255627	Marionette	INFO	Stopped listening on port 63573
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1632717495733	geckodriver	INFO	Listening on 127.0.0.1:53463
+1632717498787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile955Qa9"
+1632717499581	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile955Qa9\\search.json.mozlz4", (void 0)))
+1632717503737	Marionette	INFO	Listening on port 53471
+1632717504119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632717508262	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://whazugho.com/pfe/current/universal.min.js?v=3.1.324, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632717866358	Marionette	INFO	Stopped listening on port 53471632717868578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileiqkRxs"
+1632717869442	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileiqkRxs\\search.json.mozlz4", (void 0)))
+1632717873650	Marionette	INFO	Listening on port 61328
+1632717874129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632717878857	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://whazugho.com/pfe/current/universal.min.js?v=3.1.324, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1632718128247	Marionette	INFO	Stopped listening on port 61328
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1632718137934	geckodriver	INFO	Listening on 127.0.0.1:53933
+1632718141011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilea8TKVb"
+1632718141875	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilea8TKVb\\search.json.mozlz4", (void 0)))
+1632718145812	Marionette	INFO	Listening on port 53941
+1632718145847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632718151123	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://whazugho.com/pfe/current/universal.min.js?v=3.1.324, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632718330726	Marionette	INFO	Stopped listening on port 53941
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632718333818	geckodriver	INFO	Listening on 127.0.0.1:64319
+1632718336835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile22cBFQ"
+1632718337799	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile22cBFQ\\search.json.mozlz4", (void 0)))
+1632718342946	Marionette	INFO	Listening on port 56400
+1632718343492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632718348688	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://whazugho.com/pfe/current/universal.min.js?v=3.1.324, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1632718562107	Marionette	INFO	Stopped listening on port 56400
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632718565733	geckodriver	INFO	Listening on 127.0.0.1:59280
+1632718568780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileI3KcOa"
+1632718569600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofileI3KcOa\\search.json.mozlz4", (void 0)))
+1632718573782	Marionette	INFO	Listening on port 59288
+1632718574258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632718578775	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://whazugho.com/pfe/current/universal.min.js?v=3.1.324, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1632718755435	Marionette	INFO	Stopped listening on port 59288
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat1632718761454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilejenqFW"
+1632718762565	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilejenqFW\\search.json.mozlz4", (void 0)))
+1632718768108	Marionette	INFO	Listening on port 56706
+1632718768209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632718771868	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632718881838	Marionette	INFO	Stopped listening on port 56706
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1632718887545	geckodriver	INFO	Listening on 127.0.0.1:49779
+1632718890596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilepYpWYL"
+1632718891433	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilepYpWYL\\search.json.mozlz4", (void 0)))
+1632718895723	Marionette	INFO	Listening on port 49787
+1632718895976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632718912197	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632719185550	Marionette	INFO	Stopped listening on port 49787
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofilea0wmS7"
+1632719186499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilea0wmS7\\search.json.mozlz4", (void 0)))
+1632719191290	Marionette	INFO	Listening on port 59250
+1632719191374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632719196904	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632719252310	Marionette	INFO	Stopped listening on port 59251632719255125	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilegkdYj6"
+1632719256709	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilegkdYj6\\search.json.mozlz4", (void 0)))
+1632719263270	Marionette	INFO	Listening on port 61606
+1632719263330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632719267626	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://whazugho.com/pfe/current/universal.min.js?v=3.1.324, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://whazugho.com/pfe/current/universal.min.js?v=3.1.324, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632719432981	Marionette	INFO	Stopped listening on port 61606
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632719435839	geckodriver	INFO	Listening on 127.0.0.1:58465
+1632719438900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilew22Lr4"
+1632719439723	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilew22Lr4\\search.json.mozlz4", (void 0)))
+1632719443670	Marionette	INFO	Listening on port 58473
+1632719443914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632719449550	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632719466869	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://ad.bitmedia.io/js/adbybm.js/5d160e68777d07b10a09b059, line 1: WebGL context was lost.
+JavaScript warning: https://ad.bitmedia.io/js/adbybm.js/5d160e68777d07b10a09b059, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ad.bitmedia.io/js/adbybm.js/5d160e68777d07b10a09b059, line 1: WebGL context was lost.
+JavaScript warning: https://ad.bitmedia.io/js/adbybm.js/5d160e68777d07b10a09b059, line 1: WebGL context was lost.
+JavaScript warning: https://ad.bitmedia.io/js/adbybm.js/5d160e68777d07b10a09b059, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ad.bitmedia.io/js/adbybm.js/5d160e68777d07b10a09b059, line 1: WebGL context was lost.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ad.bitmedia.io/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript warning: https://cdn.bmcdn1.com/js/609d1675cf6a8d24ccfe3443.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d1675cf6a8d24ccfe3443.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d1675cf6a8d24ccfe3443.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d1675cf6a8d24ccfe3443.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d1675cf6a8d24ccfe3443.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn1.com/js/609d1675cf6a8d24ccfe3443.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/601ba16d0d27011360b64e3a.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/601ba16d0d27011360b64e3a.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn1.com/js/601ba16d0d27011360b64e3a.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/601ba16d0d27011360b64e3a.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn1.com/js/601ba16d0d27011360b64e3a.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn1.com/js/601ba16d0d27011360b64e3a.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn2.com/js/614439f76708c6452713d8b2.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn2.com/js/614439f76708c6452713d8b2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn2.com/js/614439f76708c6452713d8b2.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn2.com/js/614439f76708c6452713d8b2.js, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn2.com/js/614439f76708c6452713d8b2.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn2.com/js/614439f76708c6452713d8b2.js, line 1: WebGL context was lost.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.arc.io/widget/js/core.js?4c137d4, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: https://static.arc.io/broker/js/lazy-modules.a169b1ec.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://static.arc.io/widget/js/core.js?4c137d4, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://media.bmcdn1.com/html5/b9e728f0-e928-11eb-9dae-0faf3dd69843b1c0af44-98a9-4b5d-b588-fb42ac67bae25ed466bb93ee28d989b92344/, line 148: TypeError: this.g is null
+JavaScript error: https://media.bmcdn1.com/html5/b9e728f0-e928-11eb-9dae-0faf3dd69843b1c0af44-98a9-4b5d-b588-fb42ac67bae25ed466bb93ee28d989b92344/, line 147: TypeError: this.g is null
+1632719605762	Marionette	INFO	Stopped listening on port 58473
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230047,name=PBrowser::Msg_NotifyContentBlockingEvent) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackground::Msg_PBackgroundIDBFactoryConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://static.arc.io/widget/js/core.js?4c137d4, line 15: Error: connection error to wss://tkr.arc.io/announce
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAC002E,name=PWindowGlobal::Msg_SetSingleChannelId) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA80006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390149,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x55001B,name=PHal::Msg_DisableSensorNotifications) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3900D2,name=PContent::Msg_SetGeolocationHigherAccuracy) Closed channel: cannot send/recv
+
+1632766539356	geckodriver	INFO	Listening on 127.0.0.1:56162
+1632766542487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilemqWFln"
+1632766544105	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilemqWFln\\search.json.mozlz4", (void 0)))
+1632766548796	Marionette	INFO	Listening on port 56170
+1632766548861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632766555436	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://ak.hetaruwg.com/4/2809530, line 43: TypeError: navigator.connection is undefined
+1632766929609	Marionette	INFO	Stopped listening on port 56170
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632766932949	geckodriver	INFO	Listening on 127.0.0.1:65028
+1632766936060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilewczZVa"
+1632766937012	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilewczZVa\\search.json.mozlz4", (void 0)))
+1632766941259	Marionette	INFO	Listening on port 65037
+1632766941641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632766947788	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632766975950	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://whazugho.com/pfe/current/universal.min.js?v=3.1.324, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632767168549	Marionette	INFO	Stopped listening on port 65037
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632768001171	geckodriver	INFO	Listening on 127.0.0.1:57792
+1632768004188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile8EhpWL"
+1632768005683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofile8EhpWL\\search.json.mozlz4", (void 0)))
+1632768011258	Marionette	INFO	Listening on port 57800
+1632768011857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632768017828	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1632768042432	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1632768093133	Marionette	INFO	Stopped listening on port 57800
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632768095879	geckodriver	INFO	Listening on 127.0.0.1:60658
+1632768098985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilel6MHlT"
+1632768099847	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilel6MHlT\\search.json.mozlz4", (void 0)))
+1632768103844	Marionette	INFO	Listening on port 60666
+1632768103924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632768109308	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://whazugho.com/ntfc.php?p=3461575&_=1632768133691, line 1: Error: AAB Request Failed
+JavaScript error: https://ak.hetaruwg.com/4/2809530, line 43: TypeError: navigator.connection is undefined
+JavaScript warning: https://www.y2mate.com/es/youtube/PynIGY0b6HM line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632768531789	Marionette	INFO	Stopped listening on port 60666
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+_mozprofilemUZrJ5"
+1632768392039	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofilemUZrJ5\\search.json.mozlz4", (void 0)))
+1632768396217	Marionette	INFO	Listening on port 64343
+1632768396564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1632768401838	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.y2mate.com/es/youtube/QOSSFvoRIt0 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632768533162	Marionette	INFO	Stopped listening on port 64343
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634277365677	geckodriver	INFO	Listening on 127.0.0.1:49920
+1634277432569	geckodriver	INFO	Listening on 127.0.0.1:49945
+1634277493264	geckodriver	INFO	Listening on 127.0.0.1:59093
+1634303495857	geckodriver	INFO	Listening on 127.0.0.1:49735
+1634303498997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofiletfkJUk"
+1634303501768	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wandroid\\AppData\\Local\\Temp\\rust_mozprofiletfkJUk\\search.json.mozlz4", (void 0)))
+1634303506727	Marionette	INFO	Listening on port 49743
+1634303507340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634303564244	Marionette	INFO	Stopped listening on port 49743
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
