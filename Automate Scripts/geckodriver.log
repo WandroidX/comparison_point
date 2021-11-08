@@ -4981,3 +4981,5 @@ DevTools listening on ws://localhost:50272/devtools/browser/11838426-9247-44a9-a
 1636325744119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1636325752849	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
 JavaScript warning: https://www.y2mate.com/es/youtube/5UOpVH15ab8 line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1636329117360	geckodriver	INFO	Listening on 127.0.0.1:54532
+1636329648030	geckodriver	INFO	Listening on 127.0.0.1:61443
