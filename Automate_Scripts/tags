@@ -1,0 +1,68 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+By	sing_down_youtube.py	/^from selenium.webdriver.common.by import By$/;"	i
+EC	sing_down_youtube.py	/^from selenium.webdriver.support import expected_conditions as EC$/;"	i
+FirefoxProfile	sing_down_youtube.py	/^from selenium.webdriver.firefox.firefox_profile import FirefoxProfile$/;"	i
+Keys	sing_down_youtube.py	/^from selenium.webdriver.common.keys import Keys$/;"	i
+Options	sing_down_youtube.py	/^from selenium.webdriver.firefox.options import Options$/;"	i
+RoundTo	sing_down_youtube.py	/^from redondear import RoundTo$/;"	i
+WebDriverWait	sing_down_youtube.py	/^from selenium.webdriver.support.ui import WebDriverWait$/;"	i
+audio	sing_down_youtube.py	/^                        audio=browser.find_element(By.LINK_TEXT, 'Audio')$/;"	v
+audio	sing_down_youtube.py	/^            audio=browser.find_element(By.LINK_TEXT, 'Audio')$/;"	v
+browser	sing_down_youtube.py	/^browser=webdriver.Firefox(options = opcion_sin_cabeza, service_log_path = "C:\\\\Users\\\\crist\\\\Downloads\\\\creative_projects\\\\Python\\\\automate_scripts\\\\geckodriver.log", firefox_profile = profile)$/;"	v
+contador	sing_down_youtube.py	/^                contador = 0$/;"	v
+download	sing_down_youtube.py	/^                        download=browser.find_element(By.CSS_SELECTOR, '#dbtn-mp3128')$/;"	v
+download	sing_down_youtube.py	/^            download=browser.find_element(By.CSS_SELECTOR, '#dbtn-mp3128')$/;"	v
+download_two	sing_down_youtube.py	/^                            download_two=browser.find_element(By.CSS_SELECTOR, '.btn-file')$/;"	v
+download_two	sing_down_youtube.py	/^                download_two=browser.find_element(By.CSS_SELECTOR, '.btn-file')$/;"	v
+element	sing_down_youtube.py	/^                        element = WebDriverWait(browser, 100).until(EC.presence_of_element_located((By.LINK_TEXT, "Audio")))$/;"	v
+element	sing_down_youtube.py	/^        element = WebDriverWait(browser, 100).until(EC.presence_of_element_located((By.LINK_TEXT, "Audio")))$/;"	v
+eliminar_duplicados	sing_down_youtube.py	/^from remove_clones import eliminar_duplicados$/;"	i
+emoji	sing_down_youtube.py	/^import os, sys, re, emoji, logging $/;"	i
+firefox_dir	sing_down_youtube.py	/^firefox_dir = 'C:\\\\Users\\\\crist\\\\AppData\\\\Roaming\\\\Mozilla\\\\Firefox\\\\Profiles\\\\v2t4u12l.default-release'$/;"	v
+list_music	sing_down_youtube.py	/^from listmusic import list_music$/;"	i
+lista_de_musica_music	sing_down_youtube.py	/^    lista_de_musica_music = list_music()$/;"	v
+lista_de_musica_music	sing_down_youtube.py	/^lista_de_musica_music = list_music()$/;"	v
+lista_lineas	sing_down_youtube.py	/^        lista_lineas = archivo_nombre_musicas.read()$/;"	v
+lista_lineas	sing_down_youtube.py	/^        lista_lineas = lista_lineas.split('\\n')$/;"	v
+logging	sing_down_youtube.py	/^import os, sys, re, emoji, logging $/;"	i
+multiplo_de_cien	sing_down_youtube.py	/^def multiplo_de_cien(numberstr):$/;"	f
+musica_descargada	sing_down_youtube.py	/^musica_descargada = []$/;"	v
+musica_descargando	sing_down_youtube.py	/^                    musica_descargando = 'y2mate.com - '+ namelink[0][links]+'.mp3'$/;"	v
+musica_descargando_con_part	sing_down_youtube.py	/^                        musica_descargando_con_part = musica_descargando + '.part' $/;"	v
+musica_en_downloads	sing_down_youtube.py	/^                    musica_en_downloads = list_music('c:\\\\users\\\\crist\\\\downloads')$/;"	v
+musica_unida	sing_down_youtube.py	/^    musica_unida = ',\\n\\t'.join(musica_descargada)$/;"	v
+musicas	sing_down_youtube.py	/^        musicas=musicas.replace('  ', ' ')$/;"	v
+musicas	sing_down_youtube.py	/^    musicas = musicas.replace('.mp3', '')$/;"	v
+namelink	sing_down_youtube.py	/^namelink=[[remover_emoji(seek[enlace].text) for enlace in range(len(seek))], [seek[enlace].get_attribute('href') for enlace in range(len(seek))]]$/;"	v
+nsee	sing_down_youtube.py	/^from selenium.common.exceptions import NoSuchElementException as nsee$/;"	i
+numero_de_scroll	sing_down_youtube.py	/^numero_de_scroll=multiplo_de_cien(numero_de_videos)$/;"	v
+numero_de_videos	sing_down_youtube.py	/^numero_de_videos=browser.find_element(By.XPATH, '\/\/*[@id="stats"]\/yt-formatted-string[1]\/span[1]').text$/;"	v
+opcion_sin_cabeza	sing_down_youtube.py	/^opcion_sin_cabeza = Options()$/;"	v
+os	sing_down_youtube.py	/^import os, sys, re, emoji, logging $/;"	i
+othername	sing_down_youtube.py	/^        othername=browser.find_element(By.XPATH, '\/html\/body\/div[1]\/div[1]\/div\/div\/div[1]\/div\/div\/div\/div[4]\/div\/div[1]\/div[1]\/div\/b')$/;"	v
+profile	sing_down_youtube.py	/^profile = FirefoxProfile(firefox_dir)$/;"	v
+quitar_ext_y_parent	sing_down_youtube.py	/^from remove_clones import quitar_ext_y_parent$/;"	i
+quitar_signos	sing_down_youtube.py	/^def quitar_signos(objetivo):$/;"	f
+re	sing_down_youtube.py	/^import os, sys, re, emoji, logging $/;"	i
+remover_emoji	sing_down_youtube.py	/^def remover_emoji(texto):$/;"	f
+searchvid	sing_down_youtube.py	/^                        searchvid=browser.find_element(By.ID, 'txt-url')$/;"	v
+searchvid	sing_down_youtube.py	/^        searchvid=browser.find_element(By.ID, 'txt-url')$/;"	v
+seek	sing_down_youtube.py	/^seek=browser.find_elements(By.ID, 'video-title')$/;"	v
+sleep	sing_down_youtube.py	/^from time import sleep$/;"	i
+sort_music	sing_down_youtube.py	/^from move_files import sort_music$/;"	i
+sustitution	sing_down_youtube.py	/^                sustitution=sustitution.replace('  ', ' ')$/;"	v
+sustitution	sing_down_youtube.py	/^            sustitution=namelink[0][links].replace(sign, '')$/;"	v
+sustitution	sing_down_youtube.py	/^            sustitution=sustitution.replace('  ', ' ')$/;"	v
+sustitution	sing_down_youtube.py	/^            sustitution=sustitution.replace(sign, '')$/;"	v
+sustitution	sing_down_youtube.py	/^            sustitution=titulo.replace(sign, '')$/;"	v
+sys	sing_down_youtube.py	/^import os, sys, re, emoji, logging $/;"	i
+titulo	sing_down_youtube.py	/^            titulo=sustitution$/;"	v
+titulo	sing_down_youtube.py	/^    titulo = namelink[0][numero_de_musica]$/;"	v
+ventanas	sing_down_youtube.py	/^                            ventanas = browser.window_handles$/;"	v
+ventanas	sing_down_youtube.py	/^                ventanas = browser.window_handles$/;"	v
+webdriver	sing_down_youtube.py	/^from selenium import webdriver$/;"	i

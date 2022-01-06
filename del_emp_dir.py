@@ -1,5 +1,6 @@
 import os
 
+
 os.chdir("c:\\")
 
 for folder, subfolders, files in os.walk("c:\\users\\wandroid\\downloads"):
@@ -11,7 +12,6 @@ for folder, subfolders, files in os.walk("c:\\users\\wandroid\\downloads"):
     doc=open("c:\\users\\wandroid\\desktop\\folders_sorted.txt", mode)
     for subs in subfolders:
         subcarp=""+subs+"\n"
-
 
     for file in files:
         archivos=""+file+"\n"

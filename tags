@@ -1,0 +1,41 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+NoSuchOperation	permutation.py	/^class NoSuchOperation(Exception):$/;"	c
+NotAPermutation	permutation.py	/^class NotAPermutation(Exception):$/;"	c
+__init__	permutation.py	/^    def __init__(self, mensaje):$/;"	m	class:NoSuchOperation
+__init__	permutation.py	/^    def __init__(self, mensaje):$/;"	m	class:NotAPermutation
+base	permutation.py	/^        base=random.randint(1,9)$/;"	v
+base	permutation.py	/^    base = int(valores_a_permutar[0])$/;"	v
+base_two	permutation.py	/^        base_two=random.randint(1,9)$/;"	v
+base_two	permutation.py	/^    base_two=int(valores_a_permutar[3])$/;"	v
+cant	permutation.py	/^    cant=input('¿Cuantos ejercicios quieres?\\n')$/;"	v
+cant	permutation.py	/^    cant=int(cant)$/;"	v
+exer	permutation.py	/^    exer=input("ejercicio:\\n")$/;"	v
+number	permutation.py	/^        number=random.randint(1,9)$/;"	v
+number	permutation.py	/^    number=int(valores_a_permutar[1])$/;"	v
+number_two	permutation.py	/^        number_two=random.randint(1,9)$/;"	v
+number_two	permutation.py	/^    number_two=int(valores_a_permutar[4])$/;"	v
+operation	permutation.py	/^            operation = random.choice(['-', '*', '+', '\/'])$/;"	v
+operation	permutation.py	/^    operation = valores_a_permutar[2]$/;"	v
+operation	permutation.py	/^    operation=input('Elige una operación para los ejercicios:\\n(+), (-), (*), (\/), (ALL)\\n')$/;"	v
+permutacion_por_base1	permutation.py	/^        permutacion_por_base1 = base * permutacion_primer_numero[1]$/;"	v
+permutacion_por_base1	permutation.py	/^    permutacion_por_base1 = base * permutacion_primer_numero[1]$/;"	v
+permutacion_por_base2	permutation.py	/^        permutacion_por_base2= base_two * permutacion_segundo_numero[1]$/;"	v
+permutacion_por_base2	permutation.py	/^    permutacion_por_base2= base_two * permutacion_segundo_numero[1]$/;"	v
+permutacion_primer_numero	permutation.py	/^        permutacion_primer_numero = permutaciones(number)$/;"	v
+permutacion_primer_numero	permutation.py	/^    permutacion_primer_numero = permutaciones(number)$/;"	v
+permutacion_segundo_numero	permutation.py	/^        permutacion_segundo_numero = permutaciones(number_two)$/;"	v
+permutacion_segundo_numero	permutation.py	/^    permutacion_segundo_numero = permutaciones(number_two)$/;"	v
+permutaciones	permutation.py	/^def permutaciones(numero_a_permutar):$/;"	f
+random	permutation.py	/^import random$/;"	i
+re	permutation.py	/^import re$/;"	i
+realizar_operacion	permutation.py	/^def realizar_operacion(operacion, valores):$/;"	f
+resultado	permutation.py	/^        resultado = realizar_operacion(operation, [permutacion_por_base1, permutacion_por_base2])$/;"	v
+resultado	permutation.py	/^    resultado = realizar_operacion(operation, [permutacion_por_base1, permutacion_por_base2])$/;"	v
+valores_a_permutar	permutation.py	/^    valores_a_permutar =  re_ejercicio.findall(exer) $/;"	v
+valores_a_permutar	permutation.py	/^    valores_a_permutar = list(valores_a_permutar[0])$/;"	v
+you	permutation.py	/^you = input("tu quieres dar el ejercicio?\\n(Y|S|s|N)\\n")$/;"	v
