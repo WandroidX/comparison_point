@@ -109,100 +109,22 @@ if you=='Y' or you == 'y' or you == 's' or you == 'S':
     base_two=int(valores_a_permutar[3])
     # el segundo número a permutar
     number_two=int(valores_a_permutar[4])
-    
-
-    # if "*" in exer:
-        # divop=exer.split("*")
-        # operation="*"
-
-    # elif "-" in exer:
-        # divop=exer.split("-")
-        # operation="-"
-
-    # elif "+" in exer:
-        # divop=exer.split("+")
-        # operation="+"
-
-    # elif "/" in exer:
-        # divop=exer.split("/")
-        # operation="/"
-
-    # if "P" in exer:
-        
-        # divexer=divop[0].split("P")
-        # divexer_two=divop[1].split("P")
-        # base=int(divexer[0])
-        # number=int(divexer[1])
-        # base_two=int(divexer_two[0])
-        # number_two=int(divexer_two[1])
-    
-
-    # elif "p" in exer:
-        # divexer=divop[0].split("p")
-        # divexer_two=divop[1].split("p")
-        # base=int(divexer[0])
-        # number=int(divexer[1])
-        # base_two=int(divexer_two[0])
-        # number_two=int(divexer_two[1])
-    
-
-        
-    # permutacion de los números despues de las P's
+    # ??? estas son las permutaciones de los números en el ejercicio
     permutacion_primer_numero = permutaciones(number)
     permutacion_segundo_numero = permutaciones(number_two)
-    
+
+    # ??? este es el resultado de multiplicar el resultado de las permutaciones de los 
+    # numeros (los que están después de la P) por las bases (los que están antes de la P)
     permutacion_por_base1 = base * permutacion_primer_numero[1]
     permutacion_por_base2= base_two * permutacion_segundo_numero[1]
 
+    # ??? este el el resultado final del ejercicio
     resultado = realizar_operacion(operation, [permutacion_por_base1, permutacion_por_base2])
-
-    # if operation=='*':
-        # operation = 'multiplicacion'
-
-        
-        # values[0]=multiplicacion(permutation)
-        # baselist[0]=multiplicacion([base,values[0]])
-        # values_two[0]=multiplicacion(permutation_two)
-        # producto=multiplicacion([baselist[0],baselist_two[0]])
-
-
-    # elif operation=='+':
-        # operation = 'suma'
-        
-#         values[0]=multiplicacion(permutation)
-        # baselist[0]=multiplicacion([base,values[0]])
-        # values_two[0]=multiplicacion(permutation_two)
-        # baselist_two[0]=multiplicacion([base_two,values_two[0]])
-        # producto=suma([baselist[0],baselist_two[0]])
     
-
-    # elif operation=='-':
-        # operation = 'resta'
-        
-        # values[0]=multiplicacion(permutation)
-        # baselist[0]=multiplicacion([base,values[0]])
-        # values_two[0]=multiplicacion(permutation_two)
-        # baselist_two[0]=multiplicacion([base_two,values_two[0]])
-        # producto=resta([baselist[0],baselist_two[0]])
-
-    
-    # elif operation=='/':
-        # operation = 'division'
-        
-        # values[0]=multiplicacion(permutation)
-        # baselist[0]=multiplicacion([base,values[0]])
-        # values_two[0]=multiplicacion(permutation_two)
-        # baselist_two[0]=multiplicacion([base_two,values_two[0]])
-        # producto=division([baselist[0],baselist_two[0]])
-
-    # uso esto para evitar escribir la misma mrd un montón de veces como antes
-    # esto ejecutará la funcion correspondiente 
-    
-    
+    # ??? convierte los numeros del primer array arrojado por la funcion permutacion
+    # en strings para luego junarlos con join usando como separador signo de multiplicacion
     permutacion_primer_numero[0] = '*'.join([str(numero) for numero in permutacion_primer_numero[0]])
     permutacion_segundo_numero[0] = '*'.join([str(numero) for numero in permutacion_segundo_numero[0]])
-
-
 
     print(
 f'''{base}P{number} {operation} {base_two}P{number_two} =
@@ -219,83 +141,32 @@ else:
 
     for n in range(cant):
 
+        # ??? si el usuario escribe ALL en el input de operation, 
+        # se escoge una operación al azar
         if operation == "ALL":
             operation = random.choice(['-', '*', '+', '/'])
+            todas_operaciones = True
 
+        # ??? se generan bases y números aleatorios para conformar 
+        # el ejercicio
         base=random.randint(1,9)
         base_two=random.randint(1,9)
         number=random.randint(1,9)
         number_two=random.randint(1,9)
 
+        # ??? estas son las permutaciones de los números en el ejercicio
         permutacion_primer_numero = permutaciones(number)
         permutacion_segundo_numero = permutaciones(number_two)
         
+        # ??? este es el resultado de multiplicar el resultado de las permutaciones de los 
+        # numeros (los que están después de la P) por las bases (los que están antes de la P)
         permutacion_por_base1 = base * permutacion_primer_numero[1]
         permutacion_por_base2= base_two * permutacion_segundo_numero[1]
 
-        
-
+        # ??? este el el resultado final del ejercicio
         resultado = realizar_operacion(operation, [permutacion_por_base1, permutacion_por_base2])
-
-        # values=[0]
-        # values_two=[0]
-        # baselist=[0]
-        # baselist_two=[0]
-        # permutation=[]
-        # permutation_two=[]
-
-        # while number>0:
-            # permutation.append(number)
-            # number=number-1
-            
-        # while number_two>0:
-            # permutation_two.append(number_two)
-            # number_two=number_two-1
-
-
-
-        # if operation=='*':
-            
-            # values[0]=multiplicacion(permutation)
-            # baselist[0]=multiplicacion([base,values[0]])
-            # values_two[0]=multiplicacion(permutation_two)
-            # baselist_two[0]=multiplicacion([base_two,values_two[0]])
-            # producto=multiplicacion([baselist[0],baselist_two[0]])
-
-
-        # elif operation=='+':
-            
-            # values[0]=multiplicacion(permutation)
-            # baselist[0]=multiplicacion([base,values[0]])
-            # values_two[0]=multiplicacion(permutation_two)
-            # baselist_two[0]=multiplicacion([base_two,values_two[0]])
-            # producto=suma([baselist[0],baselist_two[0]])
-        
-
-        # elif operation=='-':
-            
-            # values[0]=multiplicacion(permutation)
-            # baselist[0]=multiplicacion([base,values[0]])
-            # values_two[0]=multiplicacion(permutation_two)
-            # baselist_two[0]=multiplicacion([base_two,values_two[0]])
-            # producto=resta([baselist[0],baselist_two[0]])
-
-        
-        # elif operation=='/':
-            
-            # values[0]=multiplicacion(permutation)
-            # baselist[0]=multiplicacion([base,values[0]])
-            # values_two[0]=multiplicacion(permutation_two)
-            # baselist_two[0]=multiplicacion([base_two,values_two[0]])
-            # producto=division([baselist[0],baselist_two[0]])
-
-        
-        # for w in range(0,len(permutation)):
-            # permutation[w]=str(permutation[w])
-
-        # for w in range(0,len(permutation_two)):
-            # permutation_two[w]=str(permutation_two[w])
-
+        # ??? convierte los numeros del primer array arrojado por la funcion permutacion
+        # en strings para luego junarlos con join usando como separador signo de multiplicacion
         permutacion_primer_numero[0] = '*'.join([str(numero) for numero in permutacion_primer_numero[0]])
         permutacion_segundo_numero[0] = '*'.join([str(numero) for numero in permutacion_segundo_numero[0]])
 
@@ -307,15 +178,5 @@ f'''{base}P{number} {operation} {base_two}P{number_two} =
 {permutacion_por_base1} {operation} {permutacion_por_base2}
 {resultado}\n\n''')
 
-
-            # print('''\n%sP%s %s %sP%s =
-                
-    # %s(%s) %s %s(%s)
-    # %s(%s) %s %s(%s)
-    # %s %s %s\n%s\n''' %(str(base),str(permutation[0]),operation,str(base_two),str(permutation_two[0]),str(base),'*'.join(permutation),str(operation), str(base_two),'*'.join(permutation_two),str(base),str(values[0]),str(operation),str(base_two),str(values_two[0]),str(baselist[0]),str(operation),str(baselist_two[0]),str(producto)))
-
-            # try:
-                # if pastop=="all":
-                    # operation="all"
-            # except NameError:
-                # break
+        if todas_operaciones == True:
+            operation = 'ALL'
